@@ -16,5 +16,3 @@ print(desc_obj.format)
 
 # Raster band pixel type. Value indicate signed and unsigned pixel types in 1 bit through 32 bit
 print(desc_obj.pixelType)
-
-#
